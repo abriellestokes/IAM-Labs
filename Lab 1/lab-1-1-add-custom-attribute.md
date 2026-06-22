@@ -1,10 +1,7 @@
 # Lab 1.1 — Add a Custom Attribute
 
 **Path:** Define Your Users in Okta  
-**Platform:** Okta Admin Console  
-**Lab Guide Version:** Okta 2025.10  
-**Skill level:** Foundational  
-**Estimated completion time:** 15–20 minutes  
+**Platform:** Okta   
 **Status:** ✅ Completed
 
 ---
