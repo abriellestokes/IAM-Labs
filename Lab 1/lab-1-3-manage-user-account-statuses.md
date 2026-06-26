@@ -1,10 +1,7 @@
 # Lab 1.3 — Manage User Account Statuses
 
 **Path:** Define Your Users in Okta  
-**Platform:** Okta Admin Console  
-**Lab Guide Version:** Okta 2025.10  
-**Skill level:** Foundational  
-**Estimated completion time:** 30–45 minutes  
+**Platform:** Okta  
 **Status:** ✅ Completed
 
 ---
