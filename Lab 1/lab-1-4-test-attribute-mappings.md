@@ -1,10 +1,7 @@
 # Lab 1.4 — Test Attribute Mappings
 
 **Path:** Define Your Users in Okta  
-**Platform:** Okta Admin Console + Okta Workflows  
-**Lab Guide Version:** Okta 2025.10  
-**Skill level:** Foundational — Intermediate  
-**Estimated completion time:** 30–40 minutes  
+**Platform:** Okta Admin Console + Okta Workflows    
 **Status:** ✅ Completed
 
 ---
