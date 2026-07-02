@@ -1,10 +1,7 @@
 # Lab 2.2 — Add a Group Rule Based on Group Membership
 
 **Path:** Organize Users with Groups  
-**Platform:** Okta Admin Console  
-**Lab Guide Version:** Okta 2025.07  
-**Skill level:** Foundational — Intermediate  
-**Estimated completion time:** 25–30 minutes  
+**Platform:** Okta Admin
 **Status:** ✅ Completed
 
 ---
