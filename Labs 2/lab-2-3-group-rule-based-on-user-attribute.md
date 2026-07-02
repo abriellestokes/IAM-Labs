@@ -1,10 +1,7 @@
 # Lab 2.3 — Add a Group Rule Based on a User Attribute
 
 **Path:** Organize Users with Groups  
-**Platform:** Okta Admin Console  
-**Lab Guide Version:** Okta 2025.07  
-**Skill level:** Foundational — Intermediate  
-**Estimated completion time:** 25–35 minutes  
+**Platform:** Okta Admin   
 **Status:** ✅ Completed
 
 ---
