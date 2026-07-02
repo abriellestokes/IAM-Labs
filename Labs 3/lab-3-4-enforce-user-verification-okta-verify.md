@@ -1,10 +1,7 @@
 # Lab 3.4 — Enforce User Verification When Enrolling in Okta Verify
 
 **Path:** Implement Security Policies  
-**Platform:** Okta Admin Console  
-**Lab Guide Version:** Okta 2025.10  
-**Skill level:** Intermediate  
-**Estimated completion time:** 15–20 minutes  
+**Platform:** Okta Admin   
 **Status:** ✅ Completed
 
 ---
