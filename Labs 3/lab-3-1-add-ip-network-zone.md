@@ -1,10 +1,7 @@
 # Lab 3.1 — Add an IP Network Zone for the Corporate Network
 
 **Path:** Implement Security Policies  
-**Platform:** Okta Admin Console  
-**Lab Guide Version:** Okta 2025.10  
-**Skill level:** Intermediate  
-**Estimated completion time:** 15–20 minutes  
+**Platform:** Okta Admin  
 **Status:** ✅ Completed
 
 ---
