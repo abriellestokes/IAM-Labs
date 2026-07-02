@@ -1,10 +1,7 @@
 # Lab 2.4 — Use the Okta Expression Language in a Group Rule
 
 **Path:** Organize Users with Groups  
-**Platform:** Okta Admin Console  
-**Lab Guide Version:** Okta 2025.07  
-**Skill level:** Intermediate  
-**Estimated completion time:** 25–35 minutes  
+**Platform:** Okta Admin   
 **Status:** ✅ Completed
 
 ---
