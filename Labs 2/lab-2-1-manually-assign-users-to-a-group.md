@@ -1,10 +1,7 @@
 # Lab 2.1 — Manually Assign Users to a Group
 
 **Path:** Organize Users with Groups  
-**Platform:** Okta Admin Console  
-**Lab Guide Version:** Okta 2025.07  
-**Skill level:** Foundational  
-**Estimated completion time:** 20–25 minutes  
+**Platform:** Okta Admin 
 **Status:** ✅ Completed
 
 ---
