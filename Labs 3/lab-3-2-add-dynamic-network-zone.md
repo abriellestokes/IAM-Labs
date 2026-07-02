@@ -1,10 +1,7 @@
 # Lab 3.2 — Add a Dynamic Network Zone for Allowed Countries
 
 **Path:** Implement Security Policies  
-**Platform:** Okta Admin Console  
-**Lab Guide Version:** Okta 2025.10  
-**Skill level:** Intermediate  
-**Estimated completion time:** 20–25 minutes  
+**Platform:** Okta Admin   
 **Status:** ✅ Completed
 
 ---
